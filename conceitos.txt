@@ -7,3 +7,8 @@ TEMPLATE STRINGING -> Maneira de interpolar uma variável através de crases ``
 			`${nomeVariavel}`
 
 ASI (AUTOMATIC SEMICOLON INSERTION) -> INSERÇÃO AUTOMÁTICA DE VÍRGULA, é um mecanismo do JS que coloca automticamente ; (ponto e vírgula) em certas partes do código
+
+WHILE -> Executa um bloco de código ENQUANTO uma condição for verdadeira
+
+
+OPERADOR TERNÁRIO -> É um validador/condição feita em 1 linha 
