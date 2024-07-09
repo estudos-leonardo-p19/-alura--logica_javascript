@@ -1,5 +1,5 @@
 ACOPLAMENTO -> É a dependência entre dois ou mais componentes no seu código
-Caso mude uma coisa no seu código a outra parte acaba sendo mudada também
+Caso mude uma coisa no seu código a outra parte acaba sendo alterada também
 
 INTERPOLARIZAÇÃO -> Referenciar variáveis com seus valores dentro de Strings -> ${}
 
