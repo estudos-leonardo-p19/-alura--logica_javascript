@@ -1,7 +1,7 @@
 ACOPLAMENTO -> É a dependência entre dois ou mais componentes no seu código
 Caso mude uma coisa no seu código a outra parte acaba sendo alterada também
 
-INTERPOLARIZAÇÃO -> Referenciar variáveis com seus valores dentro de Strings -> ${}
+INTERPOLARIZAÇÃO -> Referenciar variáveis com seus valores dentro de Strings -> ${variavel} OU 'texto' + variavel + 'texto'
 
 TEMPLATE STRINGING -> Maneira de interpolar uma variável através de crases ``
 			`${nomeVariavel}`
@@ -12,3 +12,6 @@ WHILE -> Executa um bloco de código ENQUANTO uma condição for verdadeira
 
 
 OPERADOR TERNÁRIO -> É um validador/condição feita em 1 linha 
+
+MATH.RANDOM() -> Retorna um número aleatório-pseudo entre 0 e 1. "pseudo" porque o computador não tem o entemdimento para se criar um número aleatório do nada, o que acontece é que essa função utiliza de metodos e operações matematicas para gerar esse número
+
