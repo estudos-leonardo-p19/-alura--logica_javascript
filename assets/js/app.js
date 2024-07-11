@@ -1,10 +1,11 @@
 alert('Hallo! Boas vindas ao Jogo do Número Secreto');
-let secretNumber = 2;
+let secretNumber = parseInt(Math.random() * 100 + 1);
+console.log(secretNumber);
 let divination; 
 let attemps = 1;
 
 while(divination != secretNumber){
-    divination = prompt('Escolha um número entre 1 e 10');
+    divination = prompt('Escolha um número entre 1 e 100');
     if( divination == secretNumber){
         break;
     }else{
